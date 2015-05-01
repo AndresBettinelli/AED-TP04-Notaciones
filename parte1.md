@@ -24,18 +24,18 @@ Ultima modificacion 01/05/2015_
 - Mas simples de entender.  
   
 *__Desventajas__*
-- Mas tiempo de elaboración y no posee una estructura tan ordenada con los diagramas mencionados.  
+- Mas tiempo de elaboración y no posee una estructura tan ordenada como los diagramas mencionados.  
   
 ### Pseudocódigos.
 *__Ventajas__*
 - Es más rápido de leer al omitir detalles que no son esenciales para la compresión humana facilitando el pasaje a un lenguaje de programación formal.  
   
 *__Desventajas__*
--Dependiendo del escritor, el pseudocódigo puede variar mucho.  
+- Dependiendo del escritor, el pseudocódigo puede variar mucho.  
   
 ### C++
 *__Ventajas__*
--Es un lenguaje que expresa procesos que puede realizar una maquina.  
+- Es un lenguaje que expresa procesos que puede realizar una maquina.  
   
 *__Desventajas__*
 - Requiere un esfuerzo mayor para poder confeccionarlo que en los demás casos. 
