@@ -1,6 +1,7 @@
-AED TP04 Notaciones
+_AED TP04 Notaciones
 Andres Bettinelli - K1091
-Ultima modificacion 01/05/2015
+Ultima modificacion 01/05/2015_
+***
 
 # AED TP04 NOTACIONES
 ### Diagrama Nassi-Shneiderman
